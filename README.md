@@ -15,7 +15,7 @@
   <a href="mailto:prachiarora0111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-F5F5F5?style=for-the-badge&logo=gmail&logoColor=DB4437"></a>
     <a href="https://www.linkedin.com/in/prachi-arora-09/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0077b5"></a> 
   <a href="https://www.instagram.com/prachiarora____/“ target="_blank"><img src="https://img.shields.io/badge/-Instagram-F5F5F5?style=for-the-badge&logo=instagram&logoColor=C13584"></a>
-  <a href="https://www.youtube.com/@FromMyLens111" target="_blank"><img src="https://img.shields.io/badge/YouTube-F5F5F5?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
+  <a href="https://www.youtube.com/@prachi_arora"  target="_blank"><img src="https://img.shields.io/badge/YouTube-F5F5F5?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
 </p>
 <br>
 
