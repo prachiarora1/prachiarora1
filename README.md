@@ -7,7 +7,7 @@
 🎓 &nbsp;I have M.tech in Computer Science and Engineering from MANIT bhopal.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing and code React Apps as hobbies/side hustles.\
 🛠 &nbsp; All of my projects are available at my portfolio website: [PortfolioWebsite](https://prachiarora1.github.io/portfolio/).\
-📄 &nbsp; Have a look at my [Résumé](https://prachiarora1.github.io/portfolio/ResumeP.pdf) for more details about me.
+📄 &nbsp; Have a look at my [Résumé](https://prachiarora1.github.io/portfolio/PrachiArora2025.pdf) for more details about me.
 <br>
 
 ### <h2 align="center">Contact Me</h2>
